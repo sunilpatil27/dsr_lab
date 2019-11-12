@@ -1,0 +1,11 @@
+"play..outlook.Temperature.Humidity..Wind"	"num"
+"   yes    rainy        cool   normal FALSE"	1
+"    no    rainy        cool   normal  TRUE"	2
+"   yes overcast         hot     high FALSE"	3
+"    no    sunny        mild     high FALSE"	4
+"   yes    rainy        cool   normal FALSE"	5
+"   yes    sunny        cool   normal FALSE"	6
+"   yes    rainy        cool   normal FALSE"	7
+"   yes    sunny         hot   normal FALSE"	8
+"   yes overcast        mild     high  TRUE"	9
+"   no    sunny        mild     high  TRUE"	10

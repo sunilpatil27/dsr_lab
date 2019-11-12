@@ -1,0 +1,7 @@
+setwd(/home/bat/Desktop/DSR-LAB-PROGRAMS-master)
+dataval=read.csv("iris.csv")
+dataval
+#sepal.length
+#sepal.width
+
+plot(dataval$sepal.length,dataval$sepal.width)

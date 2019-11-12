@@ -1,0 +1,5 @@
+bankdataa=read.delim("DT.csv")
+bankdataa
+val_new=vector(mode="numeric",length =length(bankdataa$Wind))
+bankdataa$num<- seq.int(nrow(bankdataa))
+write.table(bankdataa,file="file.csv", sep= "\t", row.names=FALSE)
